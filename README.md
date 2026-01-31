@@ -1,5 +1,5 @@
 ## Hi, I'm Marcos
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+![]()
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
