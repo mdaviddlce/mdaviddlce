@@ -1,5 +1,5 @@
 ## Hi, I'm Marcos
-![]()
+![](<img width="1920" height="1080" alt="M A R C O S" src="https://github.com/user-attachments/assets/c8d04382-b2c7-4905-9d0d-b38b6312169d" />)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
