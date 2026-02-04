@@ -40,7 +40,7 @@ Mi enfoque profesional está orientado a **Análisis e Ingeniería de Datos**, a
 ---
 
 ### **Practicante de Sistemas — FLEX Aguascalientes**  
-*(Jun 2023 – Dic 2024)*
+*(Jun 2023 – Dic 2023)*
 
 - Desarrollo y mantenimiento de aplicaciones con **C# y .NET Framework**.
 - Soporte y resolución de incidencias con **SQL Server (SSMS)**.
